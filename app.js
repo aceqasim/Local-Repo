@@ -1,5 +1,6 @@
 let product = {
-    name:"ball pen",
-    id:0,
+    title:"ball pen",
+    rating:0,
     price:30
+
 }
